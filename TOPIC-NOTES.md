@@ -11,5 +11,5 @@ For a simple overview (how I *currently* understand it):
 
 Sometimes, I felt a bit lost navigating GitHub (especially when I tried to find my website URL a 2nd time), but my knowledge will improve with exposure
 
-- Derek
+--Derek
 
