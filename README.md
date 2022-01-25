@@ -21,5 +21,5 @@ I believe in you!👍
 
 ![Eyes Right](https://user-images.githubusercontent.com/98297302/151002991-49371217-d5ed-4c34-9893-8857dd818376.jpg)
 
-*source*: https://www.atlassian.com/blog/inside-atlassian/growth-mindset
+*source*: [atlassian](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
