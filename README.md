@@ -17,7 +17,9 @@ If you're feeling lost or discouraged, just look back to the list and focus on c
 - [x] Learn from criticism
 - [x] Be inspired by others
 
-I believe in you! 👍
+I believe in you!👍
+
+![Eyes Right](https://user-images.githubusercontent.com/98297302/151002991-49371217-d5ed-4c34-9893-8857dd818376.jpg)
 
 *source*: https://www.atlassian.com/blog/inside-atlassian/growth-mindset
 
