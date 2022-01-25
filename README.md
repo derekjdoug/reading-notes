@@ -11,9 +11,13 @@ Things to keep in mind:
 - [ ] Be inspired by others
 
 Without a growth mindset, we will fail to ***meet our potential***
-:see_no_evil:
 
-I believe in you!
+If you're feeling lost or discouraged. Just look back to the list and focus on checking off one item at a time.
+- [x] Embrace challenges
+- [x] Learn from criticism
+- [x] Be inspired by others
+
+I believe in you! 👍
 
 *source*: https://www.atlassian.com/blog/inside-atlassian/growth-mindset
 
