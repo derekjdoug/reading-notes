@@ -1,6 +1,7 @@
 # Derek's Notes!
 
-##Table of Contents
+## Table of Contents
+1. [Topic Notes](topicNotes.md)
 
 ### Growth Mindset
 
