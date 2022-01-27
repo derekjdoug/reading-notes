@@ -1,3 +1,5 @@
+[Home](README.md)>[Topic Notes](topicNotes.md)
+
 # Linux Basics
 
 ## Week 01 Day 02
