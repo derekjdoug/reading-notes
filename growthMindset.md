@@ -20,6 +20,6 @@ If you're feeling lost or discouraged, just look back to the list and focus on c
 I believe in you!👍
 
 ![Eyes Right](https://user-images.githubusercontent.com/98297302/151002991-49371217-d5ed-4c34-9893-8857dd818376.jpg)
-> Myself and two fellow Military Training Instructors during Pass in Review at Air Force Basic Military Training
+*Myself and two fellow Military Training Instructors during Pass in Review at Air Force Basic Military Training*
 
 *source*: [atlassian](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
