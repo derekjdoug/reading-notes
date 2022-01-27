@@ -14,8 +14,6 @@ My priorities during this adventure are to:
 Thanks for taking the time to learn a little bit about me.
 I can be reached at: derek.j.douglas13@gmail.com
 
-*Fin*
-
 ### Table of Contents
 1. [Topic Notes](topicNotes.md)
 2. [Growth Mindset Ruminations](growthMindset.md)
