@@ -1,28 +1,22 @@
 # Derek's Notes!
 
-## Table of Contents
+## Who Am I?
+Hi, and welcome to my humble page!
+My name is Derek Douglas, and I am an aspiring software developer.
+My background is as an United States Air Force veteran, serving ten years as an Urdu (a language spoken in Pakistan and India) Cryptologic Linguist and Military Training Instructor.
+I don't have professional tech experience, so I'm starting with a clean slate, open-mindset, and hungry to learn.
+Basically, I'm ready to tackle my next foreign language!
+My priorities during this adventure are to:
+- Keep my curiousity *burning* and learn as much as I can
+- Connect with my classmates to help each other grow
+- Maintain a balance in my life and spend time with my wonderful wife and two daughters.
+
+Thanks for taking the time to learn a little bit about me.
+I can be reached at: derek.j.douglas13@gmail.com
+
+### Table of Contents
 1. [Topic Notes](topicNotes.md)
+2. [Growth Mindset Ruminations](growthMindset.md)
 
-### Growth Mindset
 
-To me, the definition of growth mindset is rooted in *contribution*. What do we continually seek to contribute to ourselves and to others?
-
-Things to keep in mind:
-
-- [ ] Embrace challenges
-- [ ] Learn from criticism
-- [ ] Be inspired by others
-
-Without a growth mindset, we will fail to ***meet our potential***
-
-If you're feeling lost or discouraged, just look back to the list and focus on checking off one item at a time.
-- [x] Embrace challenges
-- [x] Learn from criticism
-- [x] Be inspired by others
-
-I believe in you!👍
-
-![Eyes Right](https://user-images.githubusercontent.com/98297302/151002991-49371217-d5ed-4c34-9893-8857dd818376.jpg)
-
-*source*: [atlassian](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
