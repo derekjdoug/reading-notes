@@ -1,4 +1,4 @@
-[Home](https://derekjdoug.github.io/reading-notes/)
+[Home](README.md)
 
 # Growth Mindset
 
