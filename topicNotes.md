@@ -52,3 +52,7 @@ I'll get into this more later, but here are some important notes:
 - spaces are valid in files, but we need to be careful to distinguish them from arguments attached to a command
 - Linux is an extentionless system
 - Linux can also show us hidden files
+
+## Day 03
+
+
