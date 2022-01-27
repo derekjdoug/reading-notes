@@ -1,3 +1,5 @@
+[Home](https://derekjdoug.github.io/reading-notes/)
+
 # Growth Mindset
 
 To me, the definition of growth mindset is rooted in *contribution*. What do we continually seek to contribute to ourselves and to others?
