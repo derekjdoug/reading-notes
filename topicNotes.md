@@ -1,6 +1,8 @@
 [Home](https://derekjdoug.github.io/reading-notes/)
 
-# Week 01
+# Topic Notes
+
+## Week 01
 
 ## Day 01
 
