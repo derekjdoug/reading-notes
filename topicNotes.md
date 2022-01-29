@@ -8,3 +8,4 @@
 - [Revision and the Cloud](revisionsCloud.md)
 - [HTML](HTML.md)
 - [CSS](CSS.md)
+- [JavaScript](javaScript.md)
