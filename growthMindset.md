@@ -13,6 +13,7 @@ Things to keep in mind:
 Without a growth mindset, we will fail to ***meet our potential***
 
 If you're feeling lost or discouraged, just look back to the list and focus on checking off one item at a time.
+
 - [x] Embrace challenges
 - [x] Learn from criticism
 - [x] Be inspired by others

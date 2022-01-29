@@ -34,6 +34,7 @@ What we had to do today was to clone our reading-notes repository from GitHub do
 Once we did that, we were able to write code using VSC for our reading-notes repository and ACP as appropriate to make sure that our changes were reflected in GitHub and on our live page.
 
 Here are some commands that I used:
+
 - mkdir (to create the file code102 for the repository to live)
 - git clone (to actually clone the repository to my local machine)
 - git status

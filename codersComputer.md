@@ -8,6 +8,7 @@ First and foremost, I learned the critical differences between a word processor 
 The bottom line is, text editors are designed to make writing code (*and your life*) a little bit easier!
 Choosing a text editor is largely personal preference (as long as it has all of the features you need), but they should be free for students!
 Some example text editors are:
+
 - Note++
 - VS Code
 - Atom
@@ -18,6 +19,7 @@ There was some trouble shooting needed during the installation process, but it w
 Truthfully, I don't even know where to begin in explaining using Linux, but right now most of our efforts are in learning the Command Line Interface.
 Instead of using a graphical interface, the CLI enables us to perform the same actions within our computers more efficiently.
 Here are some commands that I've learned so far:
+
 - pwd (print working directory) This tells us where we're at within the system
 - ls (list) This tells us what is in our current location
 - ls -l (long listing) There's a lot to this, but it basically provides more information about what we're seeing
@@ -27,12 +29,14 @@ Here are some commands that I've learned so far:
 
 Also important to note is the different paths we are able to navigate.
 There are two specifically:
+
 1. Relative path: a file or directory that's relative to where we are currently
 2. Absolutely path: the same thing in relation to the roof of the file system
 
 Finally, I learned about files.
 Basically, everything is a file.
 I'll get into this more later, but here are some important notes:
+
 - Linux IS case sensitive
 - spaces are valid in files, but we need to be careful to distinguish them from arguments attached to a command
 - Linux is an extentionless system
