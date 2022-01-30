@@ -23,3 +23,44 @@ body {
     font-size: 20px;
 }
 ```
+
+Some other important features of CSS:
+
+We can style elements based on their HTML element names, class attributes, location in a document, their state, *and* by comibining these together.
+For example:
+
+```
+p {
+    text-align: center;
+}
+```
+
+Here we stylized the paragraph HTML elements.
+
+```
+p, h1 {
+    text-align: center;
+}
+```
+
+Here we combined multiple elements to style the same.
+
+To add a class to style:
+
+```
+<p class="intro">
+```
+
+Now to style that class:
+
+```
+.intro {
+    font-weight: bold;
+}
+```
+
+You can also go further and combine element names and class names.
+
+Additional examples can be found online!
+
+This is just scratching the surface of **CSS* basics and what the language can do.
