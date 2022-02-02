@@ -1,4 +1,4 @@
-[Home](README.md)>[Topic Notes](topicNotes.md)
+[Home](README.md) > [Topic Notes](topicNotes.md)
 
 # Activate Web Pages With JavaScript
 
