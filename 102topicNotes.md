@@ -2,7 +2,7 @@
 
 # Topic Notes
 
-## Week 01 Topics
+## Code 102
 
 - [Learning Markdown](learningMarkdown.md)
 - [The Coder's Computer](codersComputer.md)
