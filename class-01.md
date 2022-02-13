@@ -73,3 +73,5 @@ For this reason, we need to do some thinking based around:
 ## ABCs of Programming
 
 Coming soon!
+
+Source: Notes were taken and paraphrased from reading *HTML & CSS* and *JAVASCRIPT & JQUERY* by Jon Duckett.
