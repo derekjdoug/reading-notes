@@ -69,3 +69,7 @@ For this reason, we need to do some thinking based around:
 - A great way to visualize this process in a very basic way of what the site should look like and how it should operate is with a wireframe. A wireframe is a rough sketch of the site design and UI.
 - After the structure is defined, we can look at things like visual hierarchy, grouping, and designing navigation.
     - These are important  because users are unlikely to read everything that is on a page. We must design so scanning/skimming/navigation is easy
+
+## ABCs of Programming
+
+Coming soon!
