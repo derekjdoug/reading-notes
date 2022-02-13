@@ -65,8 +65,7 @@ For this reason, we need to do some thinking based around:
 - How often will people visit the site?
     - Does it need to be frequently updated?
     - What percentage of users return within a certain timeframe
-
--After we have done this research, we can decide what information needs to be contained within the site and create a site map.
--A great way to visualize this process in a very basic way of what the site should look like and how it should operate is with a wireframe. A wireframe is a rough sketch of the site design and UI.
--After the structure is defined, we can look at things like visual hierarchy, grouping, and designing navigation.
+- After we have done this research, we can decide what information needs to be contained within the site and create a site map.
+- A great way to visualize this process in a very basic way of what the site should look like and how it should operate is with a wireframe. A wireframe is a rough sketch of the site design and UI.
+- After the structure is defined, we can look at things like visual hierarchy, grouping, and designing navigation.
     - These are important  because users are unlikely to read everything that is on a page. We must design so scanning/skimming/navigation is easy
