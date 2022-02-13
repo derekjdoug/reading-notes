@@ -79,8 +79,8 @@ JavaScript uses **scripts** to achieve goals. A script is a series of instructio
 - Code the script (translate into programming language)
 
 Sketching out scripts in **flowcharts** is an effective way to visualize and design.
-This helps to ensure that you are thinking about the problem in the way that a **computer** will process it, and not as a **human** would think.
-This important because **computers will only make the connections we tell it to make**.
+This helps to ensure that you are thinking about the problem in the way that a *computer* will process it, and not as a *human* would think.
+This important because *computers will only make the connections we tell it to make*.
 Computers define the world with data. We can think of these as **objects** (things) and **properties** (characteristics of the thing).
 Characteristics could be names, values, etc.
 **Events** are interactions that occur that tell the computer a script should trigger (or not).
