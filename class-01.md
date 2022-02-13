@@ -72,6 +72,23 @@ For this reason, we need to do some thinking based around:
 
 ## ABCs of Programming
 
-Coming soon!
+JavaScript uses **scripts** to achieve goals. A script is a series of instructions, not unlike a recipe or handbook, that computers follow to meet an objective. In order to write a script, there is a 3-step process that will keep your process effective and on-the-rails:
+
+- What is your objective? (define the problem)
+- Design your script (what steps does the recipe entail?)
+- Code the script (translate into programming language)
+
+Sketching out scripts in **flowcharts** is an effective way to visualize and design.
+This helps to ensure that you are thinking about the problem in the way that a **computer** will process it, and not as a **human** would think.
+This important because **computers will only make the connections we tell it to make**.
+Computers define the world with data. We can think of these as **objects** (things) and **properties** (characteristics of the thing).
+Characteristics could be names, values, etc.
+**Events** are interactions that occur that tell the computer a script should trigger (or not).
+Examples could be clicking on a button, a web page loading, searching in a search bar, etc.
+Finally, we have **methods**.
+We can use methods to change values or characteristics of an object when a certain event is triggered.
+An example would be renting a car on a company's website would tell the computer to reduce its available inventory of cars by one.
+HTML, CSS, and JavaScript work together to structure a webpage, make it look a certain way, and to make it interactive.
+With this in mind, we make sure that we follow the correct processes of coding to make sure the three interact correctly.
 
 Source: Notes were taken and paraphrased from reading *HTML & CSS* and *JAVASCRIPT & JQUERY* by Jon Duckett.
