@@ -77,9 +77,28 @@ For numerals, no commas are used, you can represent negative numbers, and decima
 Strings are letters and other characters that are enclosed within quotes.
 Example: `'This is a string.'`. Booleans can be thought of a light switch: on or off.
 
-**Arrays** are variable types that store a list of values. 
+**Arrays** are variable types that store a list of values.
 An **expression** assigns a value to a variable or it can combine multiple values into a single values (for example `let distance = 9 * 5`).
 We can use **operators** (both arithmetic and string) to create a single value from one or more.
 There is much more information on this topic, but I will leave that to reference when needed.
 
 ## Decisions and Loops
+
+Most scripts have multiple possible paths.
+Meaning the coder has to learn how to control the flow of data in order to handle different situations.
+There are three main ways we can do this: evaluations, decisions, and loops.
+
+- **Evaluations** analyze values in a script to see if they match the expected results
+- **Decisions** use the result of evals to determine which path the script should go down
+- **Loops** are used when we want a script to perform the same set of steps repeatedly (or multiple times depending on if conditions are met or not.
+
+You can evaluate situations in code with **comparison operators**.
+This is done by comparing a value in a script to what we expect it to be.
+The code can then progress from there depending on the result. **Expressions** are often enclosed in brackets.
+They usually contain one **comparison operator** and two **operands**.
+For example: `(run >= pass)`.
+Operands do not have to be a *single value*, in fact, they could be an *entire expression* that we are comparing against another expression.
+While comparison operators usually return a true or false, we can use logical operators to compare the results of more than one comparison operator (for example: for this to be true, this expression and that expression must both be true).
+Finally, we can use **if** and **if…else** statements in our code.
+This simply means that if this condition is met (or not) then the following code in the script will be run.
+The if…else statement is just a more complex script to run.
