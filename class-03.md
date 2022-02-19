@@ -82,3 +82,5 @@ You can also reference the array variables *index number*.
 ### Switch Statements
 
 This current information is a placeholder and will be updated with more notes tomorrow.
+
+All information taken from notes while reading *HTML&CSS* and *JAVASCRIPT&JQUERY* by Jon Duckett.
