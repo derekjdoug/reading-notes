@@ -104,9 +104,9 @@ You can also call a function before it is declared and it works because...reason
 When functions need specific info in order to perform tasks, we call those **parameters** (as stated above).
 These parameters function like *variables*.
 
-`function getScore(level1, level2) {
+- ```function getScore(level1, level2) {
   return level1 + level2;
-}`
+}```
 
 When you specify the values a function should use, the values are called **arguments**.
 Arguments can be provided as values or as variables.
@@ -132,4 +132,5 @@ Here are six reasons why pair programming is an effective exercise:
 Information taken from notes while reading *HTML&CSS* and *JAVASCRIPT&JQUERY* by Jon Duckett.
 
 *6 Reasons for Pair Programming* from Code Fellows blog.
+
 Source: [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
