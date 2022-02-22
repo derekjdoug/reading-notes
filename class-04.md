@@ -104,7 +104,7 @@ You can also call a function before it is declared and it works because...reason
 When functions need specific info in order to perform tasks, we call those **parameters** (as stated above).
 These parameters function like *variables*.
 
-- ```function getScore(level1, level2) {
+```function getScore(level1, level2) {
   return level1 + level2;
 }```
 
