@@ -4,6 +4,24 @@
 
 ## Problem Domain, Objects, and the DOM
 
+### Problem Domain
+
+Understanding what the problem domain is can be one of the most difficult aspects of programming.
+When the expectations or picture of what you're trying to program are unclear or ambiguous, programming can be like trying to put together a puzzle without a reference picture.
+To me, what this means, is that it is extremely important to arm yourself with as much information as you can, and plan as much as you can, before beginning a project.
+If you define ahead of time exactly what you are hoping to accomplish under the possible circumstances, the programming becomes much easier.
+A good strategy could be to start by looking at the problem very simply, and slowly get more complicated with what you are able to understand and accomplish.
+
+Source: [*Understanding The Problem Domain Is The Hardest Part Of Programming*](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming) by John Sonmez
+
+### Primative Values Vs. Object References
+
+Off the bat, these two things are stored in JavaScript in different ways.
+If a **primative value** is assigned to a variable, the variable is directly set to that value.
+This is contrast to **object references**, which contain a reference to the value.
+The author compares this to a street address for a home.
+It tells us where the property is located, but not addtional details about the house.
+
 ### Object Literals
 
 **Objects** group together sets of variables and functions to represent/model something we would see in the real world.
