@@ -40,3 +40,31 @@ let currentStock = dealer.checkStock();
 
 let dealerName = dealer['name'];
 ```
+
+Dot notation is more common, but using brackets may be used when the property is a number (not usually recommended) or if a variable is being used in place of the property name.
+
+### Document Object Model
+
+The **Document Object Model** (DOM) tells browsers how they should create the model of an HTML page and how JavaScript can interact with and update the web page while it is in a browser window.
+The DOM is *not* HTML or JavaScript, rather it is an additional set of rules that covers two different areas:
+
+- The DOM creates a model of the page in memory and specifies how to structure this model using a **DOM Tree**. Each object that comprises the DOM represents a different part of the web page.
+- The DOM also figures out a set of rules to update what the user sees in the model.
+- The DOM is called an **Application Programming Interface (API). That is a fancy acronym for the idea that something like DOM is built to let programs and scripts interact with each other.
+
+When visualizing the DOM Tree, you can think of it as an HTML family tree for the web page.
+It begins with the 'document' and progresses down through descendants with things that are called **nodes**.
+The four different nodes are:
+
+- document node
+- element node
+- attribute node (these are *not* children of the element node, they are actually a part of that element--think about their nodes as going off to the side and not below as children in a family tree)
+- text node
+
+It is important to note that when a page is loaded in a browser, scripts access and update the DOM Tree, and not the source HTML file itself.
+Changes made to the DOM Tree can be seen, and are reflected in, the browser.
+
+To work with the DOM Tree, you first must locate the node you want to work with.
+Then use that node's text content, child elements, and attributes.
+
+Information taken from notes while reading *JAVASCRIPT&JQUERY* by Jon Duckett.
