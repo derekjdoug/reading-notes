@@ -96,5 +96,8 @@ Changes made to the DOM Tree can be seen, and are reflected in, the browser.
 
 To work with the DOM Tree, you first must locate the node you want to work with.
 Then use that node's text content, child elements, and attributes.
+We are then able to work with those elements.
+In this way, we can use JavaScript and how we write our programming to change the state of a web page depending on a how a user interacts with it.
+We can use this to change CSS, HTML elements, the text within elements on a page, or updating other aspects of the experience for the user.
 
 Information taken from notes while reading *JAVASCRIPT&JQUERY* by Jon Duckett.
