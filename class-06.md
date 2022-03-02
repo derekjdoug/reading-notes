@@ -22,6 +22,18 @@ This is contrast to **object references**, which contain a reference to the valu
 The author compares this to a street address for a home.
 It tells us where the property is located, but not addtional details about the house.
 
+Also important ideas are **immutable** and **mutable** data.
+Primitive values are immutable, and object references mutable.
+This means that primative values can't be changed (or *mutated*) while object references can.
+For example, you can create a new value and reassign a variable with a new value, but not add to it or change what is already there.
+A good example of a mutable data type would be an array--you can alter them directly (there's no need to assign new values since you can change them if needed).
+
+An important not is that object references *do not* play nice with equality comparisons.
+Since object references do not contain values directly--only references, they may give unexpected results when making comparisons.
+To remedy this situaton, the information being compared must be iterated through a check that each key and value matches *or* convert the data to a primitive before doing the check.
+
+Source: [What’s the Difference Between Primitive Values and Object References in JavaScript?](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b) by Chris Geelhoed
+
 ### Object Literals
 
 **Objects** group together sets of variables and functions to represent/model something we would see in the real world.
