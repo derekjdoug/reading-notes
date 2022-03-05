@@ -17,6 +17,38 @@ Source: [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-
 
 Tables are just that . . . a table that displays information (think spreadsheet!).
 
+- `<table></table>` creates (or contains) that table
+- `<thead></thead>` creates the top row header...will be of a different style than the rest of the table within most browsers
+- `<th></th>` header cells
+- `<tbody></tbody>` will establish the main body of the table (the data)
+- `<tr></tr>` creates a new table row
+- `<td></td>` contains the data for a table cell within a table row
+- `<tfooter></tfooter>` creates the footer row
+
+CSS interaction notes:
+
+`border-spacing:` CSS property will give space between table cells if not defined or adjusted.
+`padding:` will also make cells look better. If you use *two* elements for padding (or any other CSS property that has a top, bottom, left, and right), first value sets the top and bottom, the second sets the left and right.
+
+Table example:
+
+```
+<table>
+  <thead>
+    <th>Example 1</th>
+    <th>Example 2</th>
+    <th>Example 3</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Data 1</td>
+      <td>Data 2</td>
+      <td>Data 3</td>
+    </tr>
+  </tbody>
+</table>
+```
+
 ### Functions, Methods, and Objects
 
 - Notes incoming . . .
