@@ -29,6 +29,8 @@ Some properties we can use to manipulate layout here are:
 
 My main takeaway here is that CSS continues to be a mystical world of crazy things we can do with the display of a website within a browser, all with minimal--or no--changes to the HTML itself.
 
+Source: [Learn CSS!](https://web.dev/learn/css/layout/)
+
 ### Learn CSS - Layout
 
 This chapter builds on the ideas of the site we read for the first half of this page of notes and goes into more depth.
