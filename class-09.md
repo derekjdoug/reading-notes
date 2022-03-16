@@ -97,5 +97,4 @@ Event listener syntax is as follows:
 The rest of the chapter dives into more specific ways to write code and manipulate the syntax for different effect.
 Basically, adding details to these ideas.
 
-
 Information taken from notes while reading *HTML&CSS* and *JAVASCRIPT&JQUERY* by Jon Duckett.
