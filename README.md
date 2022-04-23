@@ -20,7 +20,5 @@ I can be reached at: derek.j.douglas13@gmail.com
 
 1. [Code 102 Topic Notes](102topicNotes.md)
 2. [Code 201 Topic Notes](201topicNotes.md)
-2. [Growth Mindset Ruminations](growthMindset.md)
-
-
-
+3. [Code 301 Topic Notes](301topicNotes.md)
+4. [Growth Mindset Ruminations](growthMindset.md)
