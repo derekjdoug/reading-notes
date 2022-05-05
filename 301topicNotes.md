@@ -8,3 +8,4 @@
 - [Class 02](code301Notes/301-class-02.md)
 - [Class 03](code301Notes/301-class-03.md)
 - [Class 04](code301Notes/301-class-04.md)
+- [Class 05](code301Notes/301-class-05.md)
