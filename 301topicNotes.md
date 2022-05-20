@@ -12,3 +12,4 @@
 - [Class 06](code301Notes/301-class-06.md)
 - [Class 07](code301Notes/301-class-07.md)
 - [Class 08](code301Notes/301-class-08.md)
+- [Class 09](code301Notes/301-class-09.md)
