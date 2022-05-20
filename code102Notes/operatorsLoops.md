@@ -1,4 +1,4 @@
-[Home](README.md) > [Code 102 Topic Notes](102topicNotes.md)
+[Home](../README.md) > [Code 102 Topic Notes](../102topicNotes.md)
 
 # Operators and Loops
 
@@ -12,7 +12,7 @@ For example:
 - `x += f()` (meaning x = x + f())
 -  So and and so forth, you can use this idea with other similiar operations
 
-Comparison operators are just that--they seek to compare operands and return a logical value based on whether or not that comparison is true. 
+Comparison operators are just that--they seek to compare operands and return a logical value based on whether or not that comparison is true.
 The operands can be of different types, such as: numerical, strings, logical, or objects.
 Usually, JavaScript will try to convert them for comparison (usually numerically).
 Exceptions are `===` and `!==` operators, as they perform **strict** equality or inequality comparisons.

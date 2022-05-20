@@ -1,4 +1,4 @@
-[Home](README.md) > [Code 201 Topic Notes](201topicNotes.md)
+[Home](../README.md) > [Code 201 Topic Notes](../201topicNotes.md)
 
 # Class 09
 

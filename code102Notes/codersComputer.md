@@ -1,10 +1,10 @@
-[Home](README.md) > [Code 102 Topic Notes](102topicNotes.md)
+[Home](../README.md) > [Code 102 Topic Notes](../102topicNotes.md)
 
 # Linux Basics
 
 ## Week 01 Day 02
 
-First and foremost, I learned the critical differences between a word processor and a text editor. 
+First and foremost, I learned the critical differences between a word processor and a text editor.
 The bottom line is, text editors are designed to make writing code (*and your life*) a little bit easier!
 Choosing a text editor is largely personal preference (as long as it has all of the features you need), but they should be free for students!
 Some example text editors are:

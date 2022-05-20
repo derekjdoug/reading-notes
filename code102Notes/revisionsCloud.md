@@ -1,4 +1,4 @@
-[Home](README.md) > [Code 102 Topic Notes](102topicNotes.md)
+[Home](../README.md) > [Code 102 Topic Notes](../102topicNotes.md)
 
 # Revisions and the Cloud
 
@@ -23,7 +23,7 @@ When we want our changes to go from our local machines (git) to GitHub, we **ACP
 This stands for Add, Commit, and Push.
 Amanda used some great analogies to explain this idea.
 One example was that of a polaroid camera.
-Add is like when you frame your subject. 
+Add is like when you frame your subject.
 *What do you want in your photo*?
 Commit is pushing the button down to take the photo.
 Push is when the photo is printed.

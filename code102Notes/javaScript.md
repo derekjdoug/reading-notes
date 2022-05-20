@@ -1,4 +1,4 @@
-[Home](README.md) > [Code 102 Topic Notes](102topicNotes.md)
+[Home](../README.md) > [Code 102 Topic Notes](../102topicNotes.md)
 
 # Activate Web Pages With JavaScript
 
