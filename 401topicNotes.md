@@ -10,3 +10,4 @@
 - [Class 02](code401Notes/401-class-02.md)
 - [Class 03](code401Notes/401-class-03.md)
 - [Class 04](code401Notes/401-class-04.md)
+- [Class 05](code401Notes/401-class-05.md)
