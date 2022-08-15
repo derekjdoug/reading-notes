@@ -15,3 +15,5 @@
 - [Class 07](code401Notes/401-class-07.md)
 - [Class 08](code401Notes/401-class-08.md)
 - [Class 09](code401Notes/401-class-09.md)
+- [Class 10](code401Notes/401-class-10.md)
+- [Class 11](code401Notes/401-class-11.md)
